@@ -14,9 +14,9 @@ Forecasting market value using player statistics and attributes.
 2. Classify a player as Goalkeeper, Defender, Midfielder or Forward based on their individual performance attributes such as pace, shooting, passing, dribbling, defending, physic, overall, potential.
    > Method used: Predictive Modeling with Classification using BAGGED KKN
 3. Test, whether a player's age affect their average pace (a combination of acceleration and sprint speed).
-   > Hypothesis Testing using Wilcoxon rank sum test
+   > Method used: Hypothesis Testing using Wilcoxon rank sum test
 4. Predict a player's market value based on attributes such as age, overall rating, potential, and specific skill attributes (passing, dribbling, shooting) and other variables.
-   > Predictive Modeling with Linear Regression
+   > Method used: Predictive Modeling with Linear Regression
 
 #**References:**
  
