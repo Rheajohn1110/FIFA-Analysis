@@ -1,14 +1,14 @@
 # FIFA-Analysis
 This project delves deep into the world of football analytics, examining key player attributes to uncover what drives performance and market value in the professional football landscape.
 
-# **Goals:**
+## **Goals:**
 
 Predicting overall performance ratings from key attributes. 
 Classifying players into their club positions based on performance metrics.
 Examining the relationship between age and pace.
 Forecasting market value using player statistics and attributes.
 
-# **Business Questions answered:**
+## **Business Questions answered:**
 1. Predict the Overall Performance Rating of football players based on key performance attributes.
    > Method used: Predictive Modeling with multiple regression
 2. Classify a player as Goalkeeper, Defender, Midfielder or Forward based on their individual performance attributes such as pace, shooting, passing, dribbling, defending, physic, overall, potential.
@@ -18,7 +18,7 @@ Forecasting market value using player statistics and attributes.
 4. Predict a player's market value based on attributes such as age, overall rating, potential, and specific skill attributes (passing, dribbling, shooting) and other variables.
    > Method used: Predictive Modeling with Linear Regression
 
-# **References:**
+## **References:**
  
  A host of comprehensive sports datasets for research, analysis, data modeling, data-visualization, predictions, machine-learning ETC. Sports. (n.d.). <https://sports-statistics.com/sports-data/sports-data-sets-for-data-modeling-visualization-predictions-machine-learning/>
  Developing research questions. Library. (2023, March 3). <https://www.monash.edu/library/help/assignments-research/developing-research-questions>
